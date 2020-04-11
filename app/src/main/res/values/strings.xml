@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">مكتبتي</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_books">BooksActivity</string>
+    <string name="list_of_books">قائمة الكتب</string>
+    <string name="shorot">شروط النهضة</string>
+    <string name="malik">مالك بن نبي</string>
+    <string name="nafar">نفر من الجن</string>
+    <string name="aymen">ايمن العتوم</string>
+    <string name="christmas">كريسماس في مكة</string>
+    <string name="ahmed">احمد خيري العمري</string>
+    <string name="sayed">سيد قطب</string>
+    <string name="dhilal">الظلال</string>
+    <string name="egypt">مصر</string>
+    <string name="iraq">العراق</string>
+    <string name="jordan">الاردن</string>
+    <string name="algeria">الجزائر</string>
+    <string name="writer">الكاتب : </string>
+    <string name="date">تاريخ الاصدار :</string>
+    <string name="shorot_date">أواخر فيفري 1949</string>
+    <string name="rating">تقييم الكتاب : </string>
+    <string name="rating_chorot">جيد جدا</string>
+    <string name="nature">الطبعة:</string>
+    <string name="style">طبيعة الكتاب : </string>
+    <string name="about">نبذة حول الكتاب</string>
+    <string name="title">عنوان الكتاب : </string>
+    <string name="about_malik">هو كتاب ذو روح إسلامية واضحة، يحاول الكاتب من خلاله أن يقدم أسسا ومفاهيم أولية تساعد على
+        إعادة بناء المجتمعات الآسيوية و الأفريقية ( المستعمَرة) وخروجها من مزالق التخلف و التبعية. ويؤكد فيه على فكرة
+        الحضارة المنتجة المستقلة عن منتجات الحضارات الأخرى، فإن شراء كل منتجات حضارة أخرى مستحيل كماً وكيفاً. وإنما يجب
+        على العالم الإسلامي، ليركّب حضارتَه في زمانه هذا، أن يرجع إلى صيغة اقترحها لصناعة أي ناتج حضاري: ناتج حضاري =
+        إنسان + تراب (مادة) + وقت.
+    </string>
+    <string name="dateofbirth">تاريخ الميلاد:</string>
+    <string name="dateofmalik">1 جانفي 1905</string>
+    <string name="deathofmalik">31 أكتوبر1973</string>
+    <string name="deathdate">تاريخ الوفاة :</string>
+    <string name="nbbooks">عدد الكتب :</string>
+</resources>
